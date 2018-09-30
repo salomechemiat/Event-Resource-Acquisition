@@ -91,7 +91,7 @@ h1{
        <h1>Even Resource</h1>
         <div class="loginbox">
             <img src="login.jpg" alt="login image" class="login">
-            <form action="Tourists" method="POST"> 
+            <form action="insert.php" method="POST"> 
                 <p><strong> User name</p>
                 <input type="text" name="name" placeholder="Enter user name">
                 <P>Password</P>   
